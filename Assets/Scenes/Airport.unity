@@ -1281,7 +1281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 946898794}
   thirdPersonCam: {fileID: 1758501107}
-  cameraOffset: {x: 0, y: 0.006, z: -0.03}
+  cameraOffset: {x: 0, y: 0.003, z: -0.009}
 --- !u!4 &461947985
 Transform:
   m_ObjectHideFlags: 0

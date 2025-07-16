@@ -35,7 +35,6 @@ public class FlightManager : MonoBehaviour
     {
         if (thirdPersonCam != null) thirdPersonCam.enabled = false;
         if (mainCamera != null) mainCamera.enabled = true;
-
         thirdPersonCam.transform.SetParent(null);
     }
 }
